@@ -154,16 +154,16 @@
 						<img class="layer_03" src="images/layerslider_layer_05.png" alt="" style="width:340px;height340px;">
 					</div>
 					<div class="caption fade fade-out layer_03" data-x="513" data-y="191" data-speed="700" data-start="1500">Pro<br>spect</div>
-					<div class="caption lft layer_text_type_01" data-x="147" data-y="130" data-speed="500" data-end="400" data-easing="easeOutQuart" data-start="1780">Well-documented clean code</div>
-					<div class="caption lft layer_text_type_01" data-x="752" data-y="178" data-speed="500"  data-easing="easeOutQuart" data-start="1850">Built with SEO in mind</div>
-					<div class="caption lfb layer_text_type_01" data-x="277" data-y="264" data-speed="500"  data-easing="easeOutQuart" data-start="2020">Retina Graphics</div>
-					<div class="caption lft layer_text_type_01" data-x="733" data-y="323" data-speed="500"  data-easing="easeOutQuart" data-start="1890">Social media ready</div>
-					<div class="caption lft layer_text_type_02" data-x="75" data-y="165" data-speed="500"  data-easing="easeOutQuart" data-start="2060">Six<br>Color Schemes</div>
-					<div class="caption lfb layer_text_type_02 t_align_left" data-x="753" data-y="259" data-speed="1000"  data-easing="easeOutQuart" data-start="1800">100% Fully<br> Responsive Design</div>
-					<div class="caption lft layer_text_type_04" data-x="63" data-y="230" data-speed="500"  data-easing="easeOutQuart" data-start="1900">Limitless Colour Variations</div>
-					<div class="caption lfb layer_text_type_04" data-x="759" data-y="233" data-speed="500"  data-easing="easeOutQuart" data-start="2070">Parallax Scrolling</div>
-					<div class="caption lfb layer_text_type_05" data-x="117" data-y="306" data-speed="500"  data-easing="easeOutQuart" data-start="1940">Various Page Layouts</div>
-					<div class="caption lft layer_text_type_05" data-x="738" data-y="140" data-speed="500"  data-easing="easeOutQuart" data-start="1910">SEO Ready Clean Code</div>
+					<div class="caption lft layer_text_type_01" data-x="147" data-y="130" data-speed="500" data-end="400" data-easing="easeOutQuart" data-start="1780">HTML5 CSS3</div>
+					<div class="caption lft layer_text_type_01" data-x="952" data-y="178" data-speed="500"  data-easing="easeOutQuart" data-start="1850">PHP</div>
+					<div class="caption lfb layer_text_type_01" data-x="277" data-y="264" data-speed="500"  data-easing="easeOutQuart" data-start="2020">JAVASCRIPT</div>
+					<div class="caption lft layer_text_type_01" data-x="933" data-y="323" data-speed="500"  data-easing="easeOutQuart" data-start="1890">WIREFRAME</div>
+					<div class="caption lft layer_text_type_02" data-x="75" data-y="165" data-speed="500"  data-easing="easeOutQuart" data-start="2060">Web Design<br>& Development</div>
+					<div class="caption lfb layer_text_type_02 t_align_left" data-x="753" data-y="259" data-speed="1000"  data-easing="easeOutQuart" data-start="1800">Responsive Design</div>
+					<div class="caption lft layer_text_type_04" data-x="63" data-y="306" data-speed="500"  data-easing="easeOutQuart" data-start="1900">User Interface</div>
+					<div class="caption lfb layer_text_type_04" data-x="759" data-y="233" data-speed="500"  data-easing="easeOutQuart" data-start="2070">mobile-friendly</div>
+					<div class="caption lfb layer_text_type_05" data-x="157" data-y="360" data-speed="500"  data-easing="easeOutQuart" data-start="1940">Static Design </div>
+					<div class="caption lft layer_text_type_05" data-x="738" data-y="140" data-speed="500"  data-easing="easeOutQuart" data-start="1910">Web Development</div>
 				</li>
 				<li data-transition="random" data-slotamount="5" data-masterspeed="300">
 					<img src="images/slider_img_06.jpg" alt="">
@@ -179,16 +179,16 @@
 						<img class="layer_03" src="images/layerslider_layer_05.png" alt="" style="width:340px;height340px;">
 					</div>
 					<div class="caption fade fade-out layer_03" data-x="513" data-y="191" data-speed="700" data-start="1500">Pro<br>spect</div>
-					<div class="caption lft layer_text_type_01" data-x="147" data-y="130" data-speed="500" data-end="400" data-easing="easeOutQuart" data-start="1780">Well-documented clean code</div>
-					<div class="caption lft layer_text_type_01" data-x="752" data-y="178" data-speed="500"  data-easing="easeOutQuart" data-start="1850">Built with SEO in mind</div>
-					<div class="caption lfb layer_text_type_01" data-x="277" data-y="264" data-speed="500"  data-easing="easeOutQuart" data-start="2020">Retina Graphics</div>
-					<div class="caption lft layer_text_type_01" data-x="733" data-y="323" data-speed="500"  data-easing="easeOutQuart" data-start="1890">Social media ready</div>
-					<div class="caption lft layer_text_type_02" data-x="1" data-y="165" data-speed="500"  data-easing="easeOutQuart" data-start="2060">100% Fully<br> Responsive Design</div>
-					<div class="caption lfb layer_text_type_02 t_align_left" data-x="753" data-y="259" data-speed="1000"  data-easing="easeOutQuart" data-start="1800">Six<br>Color Schemes</div>
-					<div class="caption lft layer_text_type_04" data-x="63" data-y="230" data-speed="500"  data-easing="easeOutQuart" data-start="1900">Limitless Colour Variations</div>
-					<div class="caption lfb layer_text_type_04" data-x="759" data-y="233" data-speed="500"  data-easing="easeOutQuart" data-start="2070">Parallax Scrolling</div>
-					<div class="caption lfb layer_text_type_05" data-x="110" data-y="306" data-speed="500"  data-easing="easeOutQuart" data-start="1940">SEO Ready Clean Code</div>
-					<div class="caption lft layer_text_type_05" data-x="738" data-y="140" data-speed="500"  data-easing="easeOutQuart" data-start="1910">Various Page Layouts</div>
+					<div class="caption lft layer_text_type_01" data-x="127" data-y="130" data-speed="500" data-end="400" data-easing="easeOutQuart" data-start="1780">WELL-DOCUMENTED CLEAN CODE</div>
+					<div class="caption lft layer_text_type_01" data-x="752" data-y="178" data-speed="500"  data-easing="easeOutQuart" data-start="1850">PRESS RELEASE SUBMISSION</div>
+					<div class="caption lfb layer_text_type_01" data-x="147" data-y="244" data-speed="500"  data-easing="easeOutQuart" data-start="2020">DISPLAY MARKETING</div>
+					<div class="caption lft layer_text_type_01" data-x="763" data-y="343" data-speed="500"  data-easing="easeOutQuart" data-start="1890">ARTICLE SUBMISSION</div>
+					<div class="caption lft layer_text_type_02" data-x="300" data-y="175" data-speed="500"  data-easing="easeOutQuart" data-start="2060">SEO<br></div>
+					<div class="caption lfb layer_text_type_02 t_align_left" data-x="753" data-y="290" data-speed="1000"  data-easing="easeOutQuart" data-start="1800">CONTENT MARKETING<br></div>
+					<div class="caption lft layer_text_type_04" data-x="63" data-y="300" data-speed="500"  data-easing="easeOutQuart" data-start="1900">Internet Marketing</div>
+					<div class="caption lfb layer_text_type_04" data-x="859" data-y="233" data-speed="500"  data-easing="easeOutQuart" data-start="2070">Email Marketing</div>
+					<div class="caption lfb layer_text_type_05" data-x="110" data-y="356" data-speed="500"  data-easing="easeOutQuart" data-start="1940">Facebook Promotion</div>
+					<div class="caption lft layer_text_type_05" data-x="738" data-y="140" data-speed="500"  data-easing="easeOutQuart" data-start="1910">Youtube Promotion</div>
 				</li>
 				<li data-transition="random" data-slotamount="5" data-masterspeed="300">
 					<img src="images/slider_img_05.jpg" alt="">
@@ -204,16 +204,16 @@
 						<img class="layer_03" src="images/layerslider_layer_05.png" alt="" style="width:340px;height340px;">
 					</div>
 					<div class="caption fade fade-out layer_03" data-x="513" data-y="191" data-speed="700" data-start="1500">Pro<br>spect</div>
-					<div class="caption lft layer_text_type_01" data-x="147" data-y="130" data-speed="500" data-end="400" data-easing="easeOutQuart" data-start="1780">Well-documented clean code</div>
-					<div class="caption lft layer_text_type_01" data-x="752" data-y="178" data-speed="500"  data-easing="easeOutQuart" data-start="1850">Social media ready</div>
-					<div class="caption lfb layer_text_type_01" data-x="230" data-y="284" data-speed="500"  data-easing="easeOutQuart" data-start="2020">Built with SEO in mind</div>
-					<div class="caption lft layer_text_type_01" data-x="733" data-y="323" data-speed="500"  data-easing="easeOutQuart" data-start="1890">Retina Graphics</div>
-					<div class="caption lft layer_text_type_02" data-x="75" data-y="165" data-speed="500"  data-easing="easeOutQuart" data-start="2060">Six<br>Color Schemes</div>
-					<div class="caption lfb layer_text_type_02 t_align_left" data-x="753" data-y="259" data-speed="1000"  data-easing="easeOutQuart" data-start="1800">Limitless <br>Colour Variations</div>
-					<div class="caption lft layer_text_type_04" data-x="63" data-y="230" data-speed="500"  data-easing="easeOutQuart" data-start="1900">100% Fully<br> Responsive Design</div>
-					<div class="caption lfb layer_text_type_04" data-x="759" data-y="233" data-speed="500"  data-easing="easeOutQuart" data-start="2070">Various Page Layouts</div>
-					<div class="caption lfb layer_text_type_05" data-x="147" data-y="306" data-speed="500"  data-easing="easeOutQuart" data-start="1940">Parallax Scrolling</div>
-					<div class="caption lft layer_text_type_05" data-x="738" data-y="140" data-speed="500"  data-easing="easeOutQuart" data-start="1910">SEO Ready Clean Code</div>
+					<div class="caption lft layer_text_type_01" data-x="147" data-y="130" data-speed="500" data-end="400" data-easing="easeOutQuart" data-start="1780">ILLUSTRATOR</div>
+					<div class="caption lft layer_text_type_01" data-x="752" data-y="178" data-speed="500"  data-easing="easeOutQuart" data-start="1850">STATIONERY PACKAGES</div>
+					<div class="caption lfb layer_text_type_01" data-x="230" data-y="284" data-speed="500"  data-easing="easeOutQuart" data-start="2020">CATALOGS</div>
+					<div class="caption lft layer_text_type_01" data-x="733" data-y="323" data-speed="500"  data-easing="easeOutQuart" data-start="1890">ADVERTISING</div>
+					<div class="caption lft layer_text_type_02" data-x="75" data-y="165" data-speed="500"  data-easing="easeOutQuart" data-start="2060">Graphic Design</div>
+					<div class="caption lfb layer_text_type_02 t_align_left" data-x="753" data-y="259" data-speed="1000"  data-easing="easeOutQuart" data-start="1800"><br></div>
+					<div class="caption lft layer_text_type_04" data-x="63" data-y="230" data-speed="500"  data-easing="easeOutQuart" data-start="1900">PHOTOSHOP</div>
+					<div class="caption lfb layer_text_type_04" data-x="759" data-y="233" data-speed="500"  data-easing="easeOutQuart" data-start="2070">POSTERS</div>
+					<div class="caption lfb layer_text_type_05" data-x="147" data-y="350" data-speed="500"  data-easing="easeOutQuart" data-start="1940">BROCHURE</div>
+					<div class="caption lft layer_text_type_05" data-x="838" data-y="300" data-speed="500"  data-easing="easeOutQuart" data-start="1910">BILLBOARD</div>
 				</li>
 			</ul>
 		</div>
@@ -228,9 +228,10 @@
 						<div class="span4">
 							<figure class="our_work_item slide-to-left">
 								<figcaption>
-									<h2>Responsive</h2>
+									<h2>Domain Expertise</h2>
 								</figcaption>
-								<p>Phasellus at diam mauris. Pellentesque ali quam tincidunt quam nec.</p>
+								<p>Our perceptive workforce provides the best possible solution.</p>
+
 								<i class="check_icon_type">
 									<img src="images/home_icon_01.png" alt="">
 								</i>
@@ -242,7 +243,7 @@
 								<div class="counting_item fade">
 									<div class="cornice"><span></span><span></span><span></span></div>
 									<dl class="counting_inner">
-										<dt>12</dt>
+										<dt>4+</dt>
 										<dd>years <br> of experience</dd>
 									</dl>
 									<i class="dashed_stripe"></i>
@@ -254,9 +255,9 @@
 						<div class="span4">
 							<figure class="our_work_item">
 								<figcaption>
-									<h2>Retina Ready</h2>
+									<h2>Affordable Services</h2>
 								</figcaption>
-								<p>Vivamus congue ve nenatis nisi quis eleif end mauris tempus ligula.</p>
+								<p>Our prices are modest. We don't believe in ripping-off.</p>
 								<i class="check_icon_type">
 									<img src="images/home_icon_02.png" alt="">
 								</i>
@@ -268,8 +269,8 @@
 								<div class="counting_item fade">
 									<div class="cornice"><span></span><span></span><span></span></div>
 									<dl class="counting_inner">
-										<dt>53</dt>
-										<dd>projects <br>done!</dd>
+										<dt>25</dt>
+										<dd>projects &<br>counting</dd>
 									</dl>
 									<i class="dashed_stripe"></i>
 									<i class="counting_tape_type_02">5</i>
@@ -280,9 +281,9 @@
 						<div class="span4">
 							<figure class="our_work_item slide-to-right">
 								<figcaption>
-									<h2>High Quality</h2>
+									<h2>Agile Delivery</h2>
 								</figcaption>
-								<p>Duis imperdiet odio at sapien fermentum vehi cula proin sagittis .</p>
+								<p>We provide quick services within stipulated time.</p>
 								<i class="check_icon_type">
 									<img src="images/home_icon_03.png" alt="">
 								</i>
@@ -706,7 +707,9 @@
 								<!--Start comment-->
 								<div class="customer_comment">
 									<h6><span class="bold">John Doe</span> &amp; Friends</h6>
-									<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec eget semper leo, ultricies viverra felis. Aenean </p>
+									<p>Ethereal Vista had been a great choice. 
+										Their team is devoted to its work and provides
+										 instant response to any inquiry. Their in-depth knowledge of the core technologies is impressive. And, their attention to detail is astounding.</p>
 									<!--Start social icons-->
 									<ul class="social_icons">
 										<li><a href="#"><i class="icon-tumblr"></i></a></li>
@@ -731,7 +734,8 @@
 								<!--Start comment-->
 								<div class="customer_comment">
 									<h6><span class="bold">Jonnie Doe</span> &amp; Friends</h6>
-									<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec eget semper leo, ultricies viverra felis. Aenean </p>
+									<p>Honestly, took a chance with this one but it turned out to be better than I had expected. Ethereal Vista provides fast service and has a talented team.
+They understand your problem and provide suitable soution. Quite satisfied by their work and performance.</p>
 									<!--Start social icons-->
 									<ul class="social_icons clearfix">
 										<li><a href="#"><i class="icon-tumblr"></i></a></li>
@@ -751,7 +755,7 @@
 			<!--Start parallax section-->
 			<section class="parallax parallax_s">
 				<div class="container">
-					<h1 class="skew-to-left">We create beautifully-crafted websites that stand out from the crowd</h1>
+					<h1 class="skew-to-left">We create beautifully-crafted websites that stand out from the crowd.</h1>
 					<div class="inline skew-to-left">
 						<a class="button_style_01 m_top_20" href="#">See how we prove it</a>
 					</div>
@@ -767,7 +771,7 @@
 				<div class="container clearfix">
 					<figure class="show_step_container clearfix">
 						<figcaption>
-							<h5 class="fade">Quisque sapien risus lobortis</h5>
+							<h5 class="fade">Plan</h5>
 						</figcaption>
 						<div class="icon_container center-to-ls3">
 							<div class="icon_parent"></div>
@@ -786,11 +790,11 @@
 							<!--Start span's for the text to wrap the shape-->
 							<span></span><span></span><span></span><span></span><span></span><span></span>
 							<!--End div's for the text to wrap the shape-->
-								Fusce sit amet convallis libero, ut fringilla augue Interdum et malesuada fames ante ipsum primis in faucibus primis free</p>
+								We analyze the client's requirements, &nbsp&nbspbrainstorm and devise <br>a plan accordingly.</p>
 					</figure>
 					<figure class="show_step_container">
 						<figcaption>
-							<h5 class="fade">Vivamus vitae mi euismod</h5>
+							<h5 class="fade">Design & Develop</h5>
 						</figcaption>
 						<div class="icon_container clearfix center-to-ls1">
 							<div class="icon_parent"></div>
@@ -809,11 +813,11 @@
 							<!--Start span's for the text to wrap the shape-->
 							<span></span><span></span><span></span><span></span><span></span><span></span>
 							<!--End div's for the text to wrap the shape-->
-								Fusce sit amet convallis libero, ut fringilla augue Interdum et malesuada fames ante ipsum primis in faucibus primis free</p>
+								Our team of <br>highly qualified professionals provide <br>the best-in-class <br>service to our Clients.</p>
 					</figure>
 					<figure class="show_step_container">
 						<figcaption>
-							<h5 class="fade">Sollicitudin urna id enim</h5>
+							<h5 class="fade">Deploy</h5>
 						</figcaption>
 						<div class="icon_container clearfix center-to-ls2">
 							<div class="icon_parent"></div>
@@ -832,7 +836,7 @@
 							<!--Start span's for the text to wrap the shape-->
 							<span></span><span></span><span></span><span></span><span></span><span></span>
 							<!--End div's for the text to wrap the shape-->
-								Fusce sit amet convallis libero, ut fringilla augue Interdum et malesuada fames ante ipsum primis in faucibus primis free</p>
+								We can certainly<br> measure upto <br>our Client's expectations.<br> Our work speaks for itself.</p>
 						<div class="icon_container last center-to-ls4"> 
 							<div class="icon_parent"></div>
 							<div class="cornice_button type_2"><span></span><span></span><span></span></div>
@@ -856,10 +860,7 @@
 									<div></div><div></div><div></div><div></div><div></div><div></div>
 									<div></div><div></div><div></div><div></div><div></div>
 									<!--End div's for the text to wrap the shape-->
-									<p>Nam dictum cursus condimentum. Aenean a ligula a mauris 
-									condimentum commodo. Duis id hend consequat nisl.  
-										Suspendisse mattis suscipit orci, nec venenatis 
-									lectus imperdiet non. Maecenas eu purus imperdiet, faucibus est in, accumsan. </p>
+									<p>If there’s one thing you learn<br>by working on a lot of different<br> Web sites, it’s that almost<br> any design idea– </p>
 								</blockquote>
 								<div class="testimonial_author_container fade-to-top">
 									<div class="photo_container">
@@ -867,7 +868,7 @@
 											<img src="images/home_img_09.jpg" alt="">
 											<canvas width="114" height="128"></canvas>
 										</div>
-										<span class="color_scheme">John Doe, </span><span class="black">newspaper</span>
+										<span class="color_scheme">Steve Krug, </span><span class="black">Don't make me think.</span>
 									</div>
 									<span></span><span></span>
 								</div>
@@ -876,10 +877,7 @@
 									<div></div><div></div><div></div><div></div><div></div><div></div>
 									<div></div><div></div><div></div><div></div><div></div>
 									<!--End div's for the text to wrap the shape-->
-									<p>Nam dictum cursus condimentum. Aenean a ligula a mauris 
-									condimentum commodo. Duis id hend consequat nisl.  
-										Suspendisse mattis suscipit orci, nec venenatis 
-									lectus imperdiet non. Maecenas eu purus imperdiet, faucibus est in, accumsan. </p>
+									<p>no matter how appallingly bad<br>–can be made usable in the<br> right circumstances,<br> with enough effort.</p>
 								</blockquote>
 							</li>
 							<li>
@@ -888,10 +886,7 @@
 									<div></div><div></div><div></div><div></div><div></div><div></div>
 									<div></div><div></div><div></div><div></div><div></div>
 									<!--End div's for the text to wrap the shape-->
-									<p>Nam dictum cursus condimentum. Aenean a ligula a mauris 
-									condimentum commodo. Duis id hend consequat nisl.  
-										Suspendisse mattis suscipit orci, nec venenatis 
-									lectus imperdiet non. Maecenas eu purus imperdiet, faucibus est in, accumsan. <p>
+									<p>A designer knows he has achieved<br> perfection not when there<br> is nothing left to add,<br>but when there is nothing<br> left to take away.</p>
 								</blockquote>
 								<div class="testimonial_author_container">
 									<div class="photo_container">
@@ -899,7 +894,7 @@
 											<img src="images/home_img_04.jpg" alt="">
 											<canvas width="114" height="128"></canvas>
 										</div>
-										<span class="color_scheme">Jonnie Doe, </span><span class="black">newspaper</span>
+										<span class="color_scheme">Antoine de Saint-Exupéry</span><span class="black"></span>
 									</div>
 									<span></span><span></span>
 								</div>
@@ -908,10 +903,7 @@
 									<div></div><div></div><div></div><div></div><div></div><div></div>
 									<div></div><div></div><div></div><div></div><div></div>
 									<!--End div's for the text to wrap the shape-->
-									<p>Nam dictum cursus condimentum. Aenean a ligula a mauris 
-									condimentum commodo. Duis id hend consequat nisl.  
-										Suspendisse mattis suscipit orci, nec venenatis 
-									lectus imperdiet non. Maecenas eu purus imperdiet, faucibus est in, accumsan. </p>
+									<p>They understand your problem <br>and provide suitable soution.<br> Quite satisfied by their work<br> and performance.</p>
 								</blockquote>
 							</li>
 						</ul>
@@ -927,7 +919,7 @@
 				<div class="container">
 					<div class="inline wind">
 						<h2 class="slog">Grab this work!</h2>
-						<p>Donec vel blandit erat. Aenean dignissim dictum tellus id facilisis. Donec faucibus vehicula odio, in dignissim tellus mattis in!</p>
+						<p></p>
 					</div>
 					<form action="http://html.creaws.com/" class="form_style_01 wind">
 						<input type="email" placeholder="Email address">
