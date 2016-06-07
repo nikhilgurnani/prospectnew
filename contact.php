@@ -21,8 +21,28 @@
 		<!--Start scripts include-->
 		<script type="text/javascript" src="js/modernizr.js"></script>
 		<!--End scripts include-->
+		
+<style>
+::-webkit-input-placeholder {
+   color: #C2E8E7;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: #C2E8E7;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #C2E8E7;  
+}
+
+:-ms-input-placeholder {  
+   color: #C2E8E7;  
+}
+
+</style>		
 	</head>
 	<body>
+		<!--Start preloader-->
 		<!--Start preloader-->
 			<div id="preloader">
 				<img src="images/loader-big.gif" alt="">
@@ -225,6 +245,8 @@
 					<div class="container relative">
 						<form id="contact_form" action="#" method="post">
 							<img src="images/icons_type_03_mail.png" alt="">
+							<input type="text" placeholder="Name" name="uname" style="width:45%; background-color:#3EB5B1;border-bottom:1px solid #99D3CE;font-size:23px;color:#B7E3E2;" />
+							<input type="text" placeholder="Email" name="umail" style="width:45%; background-color:#3EB5B1;border-bottom:1px solid #99D3CE;font-size:23px;color:#B7E3E2;float:right;" />
 							<textarea name="message">Ask a question</textarea>
 							<button type="submit">
 								<span>Send <br> Message</span>
