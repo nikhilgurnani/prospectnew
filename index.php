@@ -127,7 +127,7 @@
 						<!--End blog submenu-->
 					</li>
 					<li>
-						<a href="contact.html">
+						<a href="contact.php">
 							<span class="hex_elem_rounded"><i class="icon-envelope"></i></span>
 							Contact
 						</a>

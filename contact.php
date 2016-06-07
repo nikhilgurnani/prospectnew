@@ -1,3 +1,47 @@
+<?php
+include 'utils/database.php';
+$errcheck;
+$message;
+$nameholder = "Full Name";
+$mailholder = "Email ID";
+if(isset($_POST['submitquery']))
+{
+	echo 'Success';
+	if(isset($_POST['uname']) && isset($_POST['umail']))
+	{
+		$db = new mainDB();
+		$db->connect();
+		$errcheck = $db->contactus();
+		if($errcheck == 0)
+		{
+			$message = "Thank you for submitting query. We'll be returning back to you shortly.";
+			echo '<head><script> alert($message); </script></head>';
+		}
+		else if($errcheck == -1)
+		{
+			$message = "Sorry, some error has occurred at our end. We regret any inconvenience caused.";
+			echo '<head><script> alert($message); </script></head>';
+		}
+	}
+	else
+	{
+		if(!isset($_POST['uname']))
+		{
+			$nameholder = "Please Enter the name.";
+		}
+		else if(!isset($_POST['umail']))
+		{
+			$mailholder = "Please Enter the mail.";
+		}
+		else if(!isset($_POST['uname']) || !isset($_POST['umail']))
+		{
+			$nameholder = "Please Enter the name.";
+			$mailholder = "Please Enter the mail.";
+		}
+	}
+}
+?>
+
 <!DOCTYPE HTML>
 <html lang="en" class="no-js">
 	
@@ -43,119 +87,14 @@
 	</head>
 	<body>
 		<!--Start preloader-->
-		<!--Start preloader-->
 			<div id="preloader">
 				<img src="images/loader-big.gif" alt="">
 			</div>
 		<!--End preloader-->
 		<!--Start header-->
-		<header class="header" role="banner">
-			<div class="container">
-				<!--Start logo-->
-				<a class="logo f_left" href="index.html" title="Prospect">
-					<img src="images/logo.png" alt="">
-				</a>
-				<!--End logo-->
-				<!--Start main menu-->
-				<button class="menu_button clearfix">
-					<img class="r_logo" src="images/r_menu_logo.png" alt="">
-					<img class="r_button" src="images/r_menu_button.png" alt="">
-				</button>
-				<ul class="f_right main_menu">
-					<li>
-						<a href="index.html">
-							<span class="hex_elem_rounded"><i class="icon-home"></i></span>
-							Home
-						</a>
-						<!--Start home sub menu-->
-						<ul>
-							<li><a href="index.html">Default Style</a></li>
-							<li><a href="index_parallax_style.html">Parallax Style</a></li>
-							<li><a href="index_product_showcase.html">Product Showcase</a></li>
-							<li><a href="index_blog.html">Blog</a></li>
-						</ul>
-						<!--End home submenu-->
-					</li>
-					<li>
-						<a href="#">
-							<span class="hex_elem_rounded"><i class="icon-cog"></i></span>
-							Features
-						</a>
-						<!--Start features submenu-->
-						<ul>
-							<li><a href="features_unique_creative_design.html">Unique &amp; Creative Design</a></li>
-							<li><a href="features_unlimited_colors.html">Unlimited Colors</a></li>
-							
-							<li><a href="styled_content_accordion.html">Styled Content Items</a></li>
-							<li><a href="features_pricing_tables.html">Pricing tables</a></li>
-						</ul>
-						<!--End features submenu-->
-					</li>
-					<li>
-						<a href="#">
-							<span class="hex_elem_rounded"><i class="icon-file-alt"></i></span>
-							Pages
-						</a>
-						<!--Start pages submenu-->
-							<ul>
-								<li><a href="pages_about.html">About Us</a></li>
-								<li><a href="pages_services.html">Services</a></li>
-								<li><a href="pages_timeline.html">TimeLine</a></li>
-								<li><a href="pages_our_team.html">Our Team</a></li>
-								<li><a href="pages_process.html">Process</a></li>
-								<li><a href="pages_full_width.html">Full-Width Page</a></li>
-								<li><a href="pages_with_sidebar.html">Page with Sidebar</a></li>
-								<li><a href="pages_double_sidebars.html">Double Sidebars Page</a></li>
-								<li><a href="pages_faq.html">Faq Page</a></li>
-								<li><a href="pages_sitemap.html">Sitemap</a></li>
-								<li><a href="pages_404_page.html">404 page</a></li>
-								<li><a href="pages_coming_soon.html">Coming Soon</a></li>
-							</ul>
-						<!--End pages submenu-->
-					</li>
-					<li>
-						<a href="#">
-							<span class="hex_elem_rounded"><i class="icon-picture"></i></span>
-							Portfolio
-						</a>
-						<!--Start portfolio submenu-->
-						<ul>
-							<li><a href="portfolio_one_column.html">One Column</a></li>
-							<li><a href="portfolio_two_columns.html">Two Column</a></li>
-							<li><a href="portfolio_three_columns.html">Three Column</a></li>
-							<li><a href="portfolio_four_columns.html">Four Column</a></li>
-							<li><a href="portfolio_gallery.html">Gallery</a></li>
-							<li><a href="portfolio_product_showcase.html">Product ShowCase</a></li>
-							<li><a href="portfolio_single_item.html">Single Item</a></li>
-						</ul>
-						<!--End portfolio submenu-->
-					</li>
-					<li>
-						<a href="#">
-							<span class="hex_elem_rounded"><i class="icon-comments"></i></span>
-							Blog
-						</a>
-						<!--Start blog submenu-->
-						<ul>
-							<li><a href="blog_default.html">Default</a></li>
-							<li><a href="blog_two_columns.html">Two Columns</a></li>
-							<li><a href="blog_three_columns.html">Three Columns</a></li>
-							<li><a href="blog_full_width.html">Full Width</a></li>
-							<li><a href="blog_post.html">Blog Post</a></li>
-						</ul>
-						<!--End blog submenu-->
-					</li>
-					<li class="current_item">
-						<a href="contact.html">
-							<span class="hex_elem_rounded"><i class="icon-envelope"></i></span>
-							Contact
-						</a>
-					</li>
-				</ul>
-				<!--End main menu-->
-			</div>
-
-		</header>
+		<?php
+			include 'utils-ui/navbar.php';
+		?>
 		<!--End header-->
 		<!--Start main section-->
 		<section class="main secondary_page contact" data-animate-up="header-static" data-animate-down="header-small">
@@ -243,12 +182,12 @@
 				<!--Start contact form section-->
 				<section class="contact_form_section">
 					<div class="container relative">
-						<form id="contact_form" action="#" method="post">
+						<form id="contact_form" action="index.php" method="post">
 							<img src="images/icons_type_03_mail.png" alt="">
-							<input type="text" placeholder="Name" name="uname" style="width:45%; background-color:#3EB5B1;border-bottom:1px solid #99D3CE;font-size:23px;color:#B7E3E2;" />
-							<input type="text" placeholder="Email" name="umail" style="width:45%; background-color:#3EB5B1;border-bottom:1px solid #99D3CE;font-size:23px;color:#B7E3E2;float:right;" />
+							<input type="text" placeholder="<?php echo $nameholder ?>" name="uname" style="width:45%; background-color:#3EB5B1;border-bottom:1px solid #99D3CE;font-size:23px;color:#B7E3E2;" />
+							<input type="text" placeholder="<?php echo $mailholder ?>" name="umail" style="width:45%; background-color:#3EB5B1;border-bottom:1px solid #99D3CE;font-size:23px;color:#B7E3E2;float:right;" />
 							<textarea name="message">Ask a question</textarea>
-							<button type="submit">
+							<button type="submit" name="submitquery">
 								<span>Send <br> Message</span>
 								<span class="hex_elem_rounded_type_2">
 									<span class="h_el_01"></span>
@@ -413,3 +352,7 @@
 	</body>
 
 </html>
+
+<?php
+unset($nameholder, $mailholder, $errcheck)
+?>
